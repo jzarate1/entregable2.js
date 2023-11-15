@@ -109,6 +109,6 @@ const product3 = {
 
 productManager.addProduct(product1);
 productManager.addProduct(product2);
-productManager.addProduct(product3)
+productManager.addProduct(product3);
 
 
